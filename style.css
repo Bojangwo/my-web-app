@@ -1,0 +1,24 @@
+.user-container {
+  margin-bottom: 10px;
+  background-color: #fff;
+  border-radius: 6px;
+  padding: 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.user-item {
+  font-weight: bold;
+  cursor: pointer;
+  color: #1c0082;
+}
+
+.user-item:hover {
+  text-decoration: underline;
+}
+
+.user-details {
+  margin-top: 5px;
+  padding-left: 10px;
+  color: #333;
+  border-left: 3px solid #ccc;
+}
